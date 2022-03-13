@@ -25,7 +25,7 @@
  
 <div style="display: inline_block" align="center"> 
  <a href="https://discord.gg/8s6xwjG26a" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>    
- <a href = ""><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+ <a href = "https://www.facebook.com/gabriel.mullerds"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/gabriel_mullersz" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://chatwith.io/s/gabriel-muller-ds" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href = "mailto:gabhmuller10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
