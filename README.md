@@ -34,3 +34,4 @@
  ##
  
  
+![Snake animation](https://github.com/GabrielMullerDS/GabrielMullerDS/blob/output/github-contribution-grid-snake.svg)
