@@ -1,10 +1,3 @@
-<!--- 👋 Olá, eu sou o Gabriel Müller DS
-- 👀 Tenho interesse em Desenvolvimento de Sistemas e Volêi
-- 🌱 Ainda estou em fase de aprendizagem
-- 📫 Como podem me encontrar?
-- Instagram: @gabriel_mullersz
-- Facebook: Gabriel M. Santos
-- WhatsApp: +55 (11) 97295-3440-->
 <div align="center">
  <a href="https://github.com/GabrielMullerDS">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielMullerDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -25,7 +18,7 @@
  <img align="center" alt="Muller-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
  <img align="center" alt="Muller-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
  <img align="center" alt="Muller-YARN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
- <img align="right" width="250" height="250" alt="Muller-gif" src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47sjwuozf8nit1shl6ahskd2stdwl11zqbhq7n42kp&rid=giphy.gif&ct=g">
+ <img align="right" width="150" height="150" alt="Muller-gif" src="https://media4.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif?cid=ecf05e47sjwuozf8nit1shl6ahskd2stdwl11zqbhq7n42kp&rid=giphy.gif&ct=g">
 </div>
  
   ##
@@ -37,3 +30,7 @@
  <a href="https://chatwith.io/s/gabriel-muller-ds" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href = "mailto:gabhmuller10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+ 
+ ##
+ 
+ 
