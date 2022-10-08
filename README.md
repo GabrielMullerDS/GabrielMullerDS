@@ -18,7 +18,7 @@
  <img align="center" alt="Muller-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
  <img align="center" alt="Muller-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
  <img align="center" alt="Muller-YARN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
- <img align="right" width="150" height="150" alt="Muller-gif" src="https://www.reactiongifs.us/wp-content/uploads/2018/03/giphy-downsized-1.gif">
+ <img align="right" width="150" height="150" alt="Muller-gif" src="https://i.giphy.com/media/ES4Vcv8zWfIt2/giphy.webp">
 </div>
  
   ##
