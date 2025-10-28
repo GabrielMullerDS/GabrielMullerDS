@@ -1,11 +1,9 @@
-<div align="center">
- <a href="https://github.com/GabrielMullerDS">
- <img height="150" src="https://github-readme-stats.vercel.app/api?username=GabrielMullerDS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMullerDS&layout=compact&langs_count=7&theme=dark"/>
+<div style="display: inline_block" align="center"><br>
+ <img align="center" width="150" height="150" alt="Muller-gif" src="https://i.giphy.com/media/ES4Vcv8zWfIt2/giphy.webp">
 </div>
  
   ##
-  
+ 
 <div style="display: inline_block" align="center"><br>
  <img align="center" alt="Muller-Arduino" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
  <img align="center" alt="Muller-C#" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg">
@@ -17,8 +15,8 @@
  <img align="center" alt="Muller-NPM" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
  <img align="center" alt="Muller-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg">
  <img align="center" alt="Muller-React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+ <img align="center" alt="Muller-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Muller-YARN" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg">
- <img align="right" width="150" height="150" alt="Muller-gif" src="https://i.giphy.com/media/ES4Vcv8zWfIt2/giphy.webp">
 </div>
  
   ##
@@ -30,8 +28,3 @@
  <a href="https://chatwith.io/s/gabriel-muller-ds" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  <a href = "mailto:gabhmuller10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
- 
- ##
- 
- 
-![Snake animation](https://github.com/GabrielMullerDS/GabrielMullerDS/blob/output/github-contribution-grid-snake.svg)
